@@ -1,7 +1,7 @@
 # Processamento Digital de Sinais e Imagens
 
 Disciplina voltada para o estudo de técnicas, algoritmos e ferramentas aplicadas ao **Processamento Digital de Sinais (PDS)** e **Processamento Digital de Imagens (PDI)**.  
-O curso abrange conceitos fundamentais, métodos de análise e aplicações práticas em diversas áreas como visão computacional, biometria, telecomunicações, medicina e ciência de dados.
+O curso abrange conceitos fundamentais, métodos de análise e aplicações básicas em Processamentod e Imagens Digital.
 
 ---
 
@@ -9,41 +9,37 @@ O curso abrange conceitos fundamentais, métodos de análise e aplicações prá
 - Fundamentos de sinais e sistemas
 - Amostragem e quantização
 - Representação digital de imagens
-- Transformadas (Fourier, Discreta do Cosseno, Wavelet)
+- Transformada de Fourier
 - Filtragem no domínio espacial e da frequência
 - Realce e compressão de imagens
 - Segmentação e reconhecimento de padrões
-- Aplicações em processamento multimídia e visão computacional
 
 ---
 
 ## 🎯 Objetivos
 - Compreender os conceitos básicos de PDS e PDI.  
 - Desenvolver a capacidade de aplicar técnicas de processamento digital em sinais e imagens reais.  
-- Utilizar ferramentas computacionais (Python, NumPy, OpenCV, MATLAB, R, etc.) para experimentação.  
+- Utilizar ferramentas computacionais (Python: Numpy, OpenCV, Image, PIL) para experimentação.  
+- IDEs: Spyder, Jupyter ou Google Colab.
 - Explorar casos práticos em diferentes áreas do conhecimento.  
 
 ---
 
 ## 📚 Referências
 1. **Gonzalez, R. C.; Woods, R. E.** – *Digital Image Processing*.  
-2. **Oppenheim, A. V.; Schafer, R. W.** – *Discrete-Time Signal Processing*.  
-3. **Pratt, W. K.** – *Digital Image Processing*.  
+2. **SZELISKI, Richard.** – *Computer vision: algorithms and applications. Springer Nature, 2022.*
 
 ---
 
-## 🛠️ Ferramentas sugeridas
-- Python (NumPy, OpenCV, Matplotlib, scikit-image)  
-- MATLAB / Octave  
-- R (pacotes de processamento de imagens e sinais)  
+## 🛠️ Ferramentas usadas
+- Python: NumPy, OpenCV, Matplotlib, Image, PIL
+- Google Colab
 
 ---
 
 ## 📂 Estrutura do repositório
-- `aulas/` → Slides, roteiros de aula  
-- `exercicios/` → Listas de exercícios e práticas  
-- `projetos/` → Projetos finais e estudos de caso  
-- `datasets/` → Conjuntos de dados e imagens para prática  
+- `class-codes/` → Códigos em sala de aula  
+- `data/` → Conjuntos de dados e imagens para prática  
 
 ---
 

@@ -39,7 +39,7 @@ O curso abrange conceitos fundamentais, métodos de análise e aplicações bás
 
 ## 📂 Estrutura do repositório
 - `class-codes/` → Códigos em sala de aula  
-- `data/` → Conjuntos de dados e imagens para prática  
+- `imagens/` → Conjuntos de dados para prática  
 
 ---
 

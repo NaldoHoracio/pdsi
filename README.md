@@ -1,6 +1,6 @@
 # Processamento Digital de Sinais e Imagens
 
-Disciplina voltada para o estudo de técnicas, algoritmos e ferramentas aplicadas ao **Processamento Digital de Sinais (PDS)** e **Processamento Digital de Imagens (PDI)**.  
+Disciplina voltada para o estudo de técnicas, algoritmos e ferramentas aplicadas ao **Processamento Digital de Imagens (PDI)**.  
 O curso abrange conceitos fundamentais, métodos de análise e aplicações básicas em Processamento de Imagens Digitais.
 
 ---
@@ -21,7 +21,7 @@ O curso abrange conceitos fundamentais, métodos de análise e aplicações bás
 - Desenvolver a capacidade de aplicar técnicas de processamento digital em sinais e imagens reais.  
 - Utilizar ferramentas computacionais (Python: Numpy, OpenCV, Image, PIL) para experimentação.  
 - IDEs: Spyder, Jupyter ou Google Colab.
-- Explorar casos práticos em diferentes áreas do conhecimento.  
+- Explorar casos em diferentes áreas do conhecimento (medicina, segurança, astronomia, ...).
 
 ---
 
@@ -38,7 +38,7 @@ O curso abrange conceitos fundamentais, métodos de análise e aplicações bás
 ---
 
 ## 📂 Estrutura do repositório
-- `class-codes/` → Códigos em sala de aula  
+- `notebooks/` → Códigos em sala de aula  
 - `imagens/` → Conjuntos de dados para prática  
 
 ---

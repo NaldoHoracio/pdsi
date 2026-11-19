@@ -5,7 +5,7 @@ O curso abrange conceitos fundamentais, métodos de análise e aplicações bás
 
 ---
 
-## 📌 Ementa
+## Ementa
 - Fundamentos de sinais e sistemas
 - Amostragem e quantização
 - Representação digital de imagens
@@ -16,7 +16,7 @@ O curso abrange conceitos fundamentais, métodos de análise e aplicações bás
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - Compreender os conceitos básicos de PDS e PDI.  
 - Desenvolver a capacidade de aplicar técnicas de processamento digital em sinais e imagens reais.  
 - Utilizar ferramentas computacionais (Python: Numpy, OpenCV, Image, PIL) para experimentação.  
@@ -25,28 +25,28 @@ O curso abrange conceitos fundamentais, métodos de análise e aplicações bás
 
 ---
 
-## 📚 Referências
+## Referências
 1. **Gonzalez, R. C.; Woods, R. E.** – *Digital Image Processing*.  
 2. **SZELISKI, Richard.** – *Computer vision: algorithms and applications. Springer Nature, 2022.*
 
 ---
 
-## 🛠️ Ferramentas usadas
+## Ferramentas usadas
 - Python: NumPy, OpenCV, Matplotlib, Image, PIL
 - Google Colab
 
 ---
 
-## 📂 Estrutura do repositório
+## Estrutura do repositório
 - `notebooks/` → Códigos em sala de aula  
 - `imagens/` → Conjuntos de dados para prática  
 
 ---
 
-## 🤝 Contribuições
+## Contribuições
 Sinta-se à vontade para abrir *issues* e *pull requests* com sugestões de melhorias, correções ou novos materiais relacionados ao conteúdo da disciplina.
 
 ---
 
-## 📜 Licença
+## Licença
 Este repositório é licenciado sob a [MIT License](LICENSE).
